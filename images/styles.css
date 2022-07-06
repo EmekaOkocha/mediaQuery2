@@ -1,0 +1,50 @@
+main{
+    background-color: white;
+    width:90%;
+    height:100%;
+    margin-left:5%;
+}
+.dd{
+    display:flex;
+    width:100%;
+    height:25%;
+}
+.ddd{
+    display:flex;
+    width:80%;
+    height:30%;
+    border-radius:5px;
+    margin:auto;
+}
+.d{
+    display:flex;
+    width:40%;
+    height:10%;
+    border-radius:5px;
+    margin:auto;
+    background-color: white;
+}
+img{
+    height:100%;
+    width:100%;
+}
+.imgDiv{
+    width:40%;
+    height:100%;
+}
+#div1{
+    background-color: hsl(208, 11%, 55%);
+}
+#div2{
+    background-color: white;
+}
+#div3{
+    background-color: brown;
+}
+#div4{
+    background-color: purple;
+}
+#div5{
+    background-color: hsl(216, 45%, 98%);
+    text-align: center;
+}
